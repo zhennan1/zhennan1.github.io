@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>1zhennan's website - Link</title>
+    <title>1zhennan's website - Timeline</title>
     <style>
         body {
             background-color: #e6f5e6;
@@ -48,6 +48,19 @@
             line-height: 1.5;
             font-size: 18px;
         }
+        .event {
+            margin-bottom: 20px;
+        }
+
+        .event .date {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .event .description {
+            font-size: 18px;
+        }
     </style>
 </head>
 
@@ -65,25 +78,37 @@
     </nav>
 
     <main>
-        <h2>Useful Links</h2>
-        <p>Here are some useful links related to my blog.</p>
-        <hr>
-        <p><a href="https://learn.tsinghua.edu.cn/f/login">网络学堂</a></p>
-        <hr>
-        <p><a href="http://info.tsinghua.edu.cn/">信息门户</a></p>
-        <hr>
-        <p><a href="https://zhjwxk.cic.tsinghua.edu.cn/xklogin.do">选课系统</a></p>
-        <hr>
-        <p><a href="https://cloud.tsinghua.edu.cn/">清华云盘</a></p>
-        <hr>
-        <p><a href="https://chat.openai.com/">ChatGPT</a></p>
-        <hr>
-        <p><a href="https://github.com/">Github</a></p>
+        <h1>My Timeline</h1>
+        <ul class="timeline">
+            <li class="event">
+                <div class="date">2023.8.21-9.1</div>
+                <div class="description">当代世界政治重大议题研讨</div>
+            </li>
+            <li class="event">
+                <div class="date">2023.9.3-9.14</div>
+                <div class="description">生化与分子生物学综合实验</div>
+            </li>
+            <li class="event">
+                <div class="date">2023.9.18</div>
+                <div class="description">开学</div>
+            </li>
+            <li class="event">
+                <div class="date">2023.9.23</div>
+                <div class="description">TOEFL</div>
+            </li>
+            <li class="event">
+                <div class="date">2023.10.8</div>
+                <div class="description">GRE</div>
+            </li>
+            <li class="event">
+                <div class="date">2023.10-11</div>
+                <div class="description">春研申请（如有可能）</div>
+            </li>
+            <!-- Add more events as needed -->
+        </ul>
     </main>
 
     <footer style="background-color: #55aa55; padding: 10px; text-align: center; font-size: 14px; color: #fff;">
         &copy; 2023 1zhennan. All rights reserved.
     </footer>
 </body>
-
-</html>
