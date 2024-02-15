@@ -1,9 +1,9 @@
-# 1zhennan.github.io
+# zhennan1.github.io
 
 Personal website
 
 Created on Aug 21, 2022
 
-@1zhennan
+@zhennan1
 
-Contact by E-mail: wanzhennan@outlook.com
+Contact by E-mail: zhennan018@gmail.com
