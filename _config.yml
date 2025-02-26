@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhennan Wan"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zhennan Wan"
 description              : &description "An AI Researcher"
@@ -22,7 +22,7 @@ repository               : "zhennan1/zhennan1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Zhennan Wan"
   pronouns         : # example: "she/her"  
   bio              : "An AI Researcher"

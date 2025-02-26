@@ -19,17 +19,17 @@ redirect_from:
 
 * July 2023 - August 2023: Research Intern
   * State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology, Tsinghua University
-  * Supervisor: Assistant Professor Bin Fang
+  * Supervisor: Assistant Professor <a href="https://scholar.google.com/citations?user=5G47IcIAAAAJ&hl=zh-CN">Bin Fang</a>
   * Description: 
 
 * February 2024 - August 2024: Research Intern
   * 3D Visual Computing and Machine Intelligence (3DVICI) Lab, Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University
-  * Supervisor: Assistant Professor Li Yi
+  * Supervisor: Assistant Professor <a href="https://ericyi.github.io/">Li Yi</a>
   * Description: 
 
 * September 2024 - Now: Research Intern
   * Natural Language Processing Lab, Tsinghua University (THUNLP)
-  * Supervisor: Associate Professor Peng Li and Professor Yang Liu
+  * Supervisor: Associate Professor <a href="https://lpeng.net/">Peng Li</a> and Professor <a href="https://nlp.csai.tsinghua.edu.cn/~ly/">Yang Liu</a>
   * Description: 
 
 <!-- * Spring 2024: Academic Pages Collaborator
@@ -56,7 +56,7 @@ redirect_from:
 
 **Awards**
 
-Tsinghua University Software Engineering Outstanding Project Award
+* Tsinghua University Software Engineering Outstanding Project Award
 
 <!-- Publications
 ======
