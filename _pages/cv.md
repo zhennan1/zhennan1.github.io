@@ -20,17 +20,20 @@ redirect_from:
 * July 2023 - August 2023: Research Intern
   * State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology, Tsinghua University
   * Supervisor: Assistant Professor <a href="https://scholar.google.com/citations?user=5G47IcIAAAAJ&hl=zh-CN">Bin Fang</a>
-  * Description: 
+  * Description: Trained neural network models to extract human hand movements from electromyographic signals of the human arm.
 
 * February 2024 - August 2024: Research Intern
   * 3D Visual Computing and Machine Intelligence (3DVICI) Lab, Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University
   * Supervisor: Assistant Professor <a href="https://ericyi.github.io/">Li Yi</a>
-  * Description: 
+  * Description: Utilized video editing techniques to convert human hand-object interaction videos into robotic hand-object interaction videos; extracted 6D poses of human videos; compared human data with robot data, referencing pipelines such as OpenVLA, to validate the effectiveness of human videos for robotic training
 
 * September 2024 - Now: Research Intern
   * Natural Language Processing Lab, Tsinghua University (THUNLP)
   * Supervisor: Associate Professor <a href="https://lpeng.net/">Peng Li</a> and Professor <a href="https://nlp.csai.tsinghua.edu.cn/~ly/">Yang Liu</a>
-  * Description: 
+  * Description: Developed a multi-agent framework, ScalableExtAgents, for question-answering tasks requiring large amounts of external knowledge. The framework distributes external knowledge across multiple agents and facilitates intensive inter-agent communication, 
+overcoming the context window limitations of current large language models (LLMs). Experimental results show that this method effectively 
+handles vast knowledge inputs, with performance on par with or surpassing traditional methods, while achieving higher parallelism and 
+scalability for complex applications. Project website: <a href="https://github.com/zhennan1/ScalableExtAgents">https://github.com/zhennan1/ScalableExtAgents</a>
 
 <!-- * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -56,7 +59,7 @@ redirect_from:
 
 **Awards**
 
-* Tsinghua University Software Engineering Outstanding Project Award
+* Tsinghua University Software Engineering Outstanding Project Award (2024)
 
 <!-- Publications
 ======
