@@ -15,6 +15,7 @@ redirect_from:
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 * B.S. in Computer Science and Technology, Tsinghua University, 2026 (expected)
   * Major GPA: 3.75/4.0
+  * Relevant Coursework (Grade: A): Fundamentals of Programming; Probability and Statistics; Software Engineering; Database Special Topic Training; Programing and Training; Ordinary Differential Equations; Principles of Signal Processing
 
 **Research Experience**
 
