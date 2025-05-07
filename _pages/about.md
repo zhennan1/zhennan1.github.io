@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I’m Zhennan Wan, a 20-year-old male born on September 4, 2004. I’m currently a third-year student in the Department of Computer Science at Tsinghua University, focusing on multi-agent research. I’m passionate about computer science, especially in the areas of machine learning, computer vision, natural language processing, etc.
+Hello, I’m Zhennan Wan, a third-year undergraduate student majoring in Computer Science at Tsinghua University. My current research focuses on multi-agent collaboration in large language models (LLMs), with broader interests in machine learning, natural language processing, and computer vision.
 
 **I am currently searching for suitable summer research opportunities**
 
