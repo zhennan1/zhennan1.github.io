@@ -13,6 +13,4 @@ Hello, I’m Zhennan Wan, a 20-year-old male born on September 4, 2004. I’m cu
 
 You can contact me through email zhennan018@gmail.com. You can also visit my GitHub website https://github.com/zhennan1 to learn more about the projects I have worked on before.
 
-Outside of academics, I enjoy playing badminton and table tennis, which provide me with energy and joy. Additionally, I love listening to music, chatting, sleeping, and playing video games like Honor of Kings and Counter-Strike 2 to unwind and maintain a balanced life. 
-
 I’m excited to share my interests and academic pursuits here, and I look forward to connecting and collaborating with like-minded individuals. 🌐🎵🚶‍♂️💤🎮
