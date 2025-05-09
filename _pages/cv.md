@@ -22,7 +22,7 @@ redirect_from:
 * **September 2024 - May 2025: Natural Language Processing Lab, Tsinghua University (THUNLP)**
   * Supervisor: Associate Professor <a href="https://lpeng.net/">Peng Li</a> and Professor <a href="https://nlp.csai.tsinghua.edu.cn/~ly/">Yang Liu</a>
   * Research Topic: Scaling External Knowledge Input Beyond the Context Length of LLMs via Multi-Agent Collaboration
-  * Role: Co-leader (co-first author, targeting submission to NeurIPS 2025)
+  * Role: Co-leader (co-first author, submitted to NeurIPS 2025)
   * Description: Developed a multi-agent framework, ScalableExtAgents, for question-answering tasks requiring large amounts of external knowledge. The framework distributes external knowledge across multiple agents and facilitates intensive inter-agent communication, 
 addressing the context window limitations of current large language models (LLMs). Experiments demonstrate that the proposed method effectively processes vast external knowledge inputs, with performance on par with or surpassing traditional methods, while achieving higher parallelism and scalability for complex applications. Project website: <a href="https://github.com/zhennan1/ScalableExtAgents">https://github.com/zhennan1/ScalableExtAgents</a>
 
