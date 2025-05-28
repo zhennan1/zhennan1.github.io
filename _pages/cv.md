@@ -20,20 +20,20 @@ redirect_from:
 **Research Experience**
 
 * **September 2024 - May 2025: Natural Language Processing Lab, Tsinghua University (THUNLP)**
-  * Supervisor: Associate Professor <a href="https://lpeng.net/">Peng Li</a> and Professor <a href="https://nlp.csai.tsinghua.edu.cn/~ly/">Yang Liu</a>
+  * Supervisor: Associate Professor [Peng Li](https://lpeng.net/) and Professor [Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/)
   * Research Topic: Scaling External Knowledge Input Beyond the Context Length of LLMs via Multi-Agent Collaboration
   * Role: Co-leader (co-first author, submitted to NeurIPS 2025)
   * Description: Developed a multi-agent framework, ScalableExtAgents, for question-answering tasks requiring large amounts of external knowledge. The framework distributes external knowledge across multiple agents and facilitates intensive inter-agent communication, 
-addressing the context window limitations of current large language models (LLMs). Experiments demonstrate that the proposed method effectively processes vast external knowledge inputs, with performance on par with or surpassing traditional methods, while achieving higher parallelism and scalability for complex applications. Project website: <a href="https://github.com/zhennan1/ScalableExtAgents">https://github.com/zhennan1/ScalableExtAgents</a>
+addressing the context window limitations of current large language models (LLMs). Experiments demonstrate that the proposed method effectively processes vast external knowledge inputs, with performance on par with or surpassing traditional methods, while achieving higher parallelism and scalability for complex applications. Paper: [https://arxiv.org/abs/2505.21471](https://arxiv.org/abs/2505.21471). Project website: [https://github.com/THUNLP-MT/ExtAgents](https://github.com/THUNLP-MT/ExtAgents).
 
 * **February 2024 - August 2024: 3D Visual Computing and Machine Intelligence (3DVICI) Lab, Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University**
-  * Supervisor: Assistant Professor <a href="https://ericyi.github.io/">Li Yi</a>
+  * Supervisor: Assistant Professor [Li Yi](https://ericyi.github.io/)
   * Research Topic: Editing Human Videos for Robotic Skill Training
   * Role: Co-leader
   * Description: Designed a video-editing pipeline to convert human hand-object interaction videos into robotic hand-object interaction videos. Extracted 6D poses of human videos. Then compared human and robot interaction data using reference pipelines such as OpenVLA to evaluate the applicability of human video data for robotic training.
 
 * **July 2023 - August 2023: State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology, Tsinghua University**
-  * Supervisor: Assistant Professor <a href="https://scholar.google.com/citations?user=5G47IcIAAAAJ&hl=zh-CN">Bin Fang</a>
+  * Supervisor: Assistant Professor [Bin Fang](https://scholar.google.com/citations?user=5G47IcIAAAAJ&hl=zh-CN)
   * Research Topic: Human-Machine Collaborative Operation of Super-functional Prosthetic Hands
   * Role: Project Member
   * Description: Trained neural network models to extract human hand movements from electromyographic signals of the human arm.
