@@ -41,10 +41,10 @@ redirect_from:
 
 **Internship Experience**
 
-* **June 2025 - Present: Code Intelligence Center, Technology and Engineering Group (TEG), Tencent**
+* **June 2025 - August 2025: Code Intelligence Center, Technology and Engineering Group (TEG), Tencent**
   * Project Topic: Applying CodeLLMs for Multi-Point Code Completion and Smart Rewriting
   * Role: Student Leader
-  * Description: Investigated data synthesis algorithms for Code Large Language Models (CodeLLMs) specifically for multi-point code completion and intelligent rewrite tasks. Trained a CodeLLM-based Fusion Model for multi-point completion to enable multi-point navigation and provide intelligent rewrite suggestions within code editing scenarios.
+  * Description: Researched data synthesis algorithms for CodeLLMs on cursor prediction and intelligent rewrite tasks; trained a CodeLLM-based fusion model to implement cursor prediction and intelligent rewrite suggestions during code editing.
 
 **Course Project**
 
