@@ -13,21 +13,24 @@ redirect_from:
 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
-* M.E. in Electronic Information (Computer Science and Technology), Tsinghua University, 2028 (expected)
+* **Master of Engineering in Electronic Information (Computer Science and Technology), Tsinghua University, 2028 (expected)**
   * Advisor: Associate Professor [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/)
   * Research Lab: [TSAIL](https://ml.cs.tsinghua.edu.cn/)
-* B.E. in Computer Science and Technology, Tsinghua University, 2026 (expected)
+* **Bachelor of Engineering in Computer Science and Technology, Tsinghua University, 2026 (expected)**
   * Major GPA: 3.76/4.0
-  * Last year GPA: 3.86/4.0
   * Relevant Coursework (Grade: A): Ordinary Differential Equations; Probability and Statistics; Fundamentals of Programming; Programing and Training; Software Engineering; Operating Systems; Principles of Signal Processing; Database Special Topic Training
   * Previous Major: Medicine. Pivoted to Computer Science to pursue a passion for Artificial Intelligence.
- 
-**Publication**
 
-**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**
-Zijun Liu\*, **Zhennan Wan\***, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Yang Liu
-*arXiv 2025*. Under review.
-\*Equal contribution.
+**Research Statement**
+
+* My research focuses on improving the long context capability of large language models (LLMs).
+
+**Publications**
+
+* **Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**  
+  Zijun Liu\*, **Zhennan Wan\***, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Yang Liu  
+  *arXiv 2025*. Under review. [[Paper](https://arxiv.org/abs/2505.21471)] [[GitHub](https://github.com/THUNLP-MT/ExtAgents)] [[Data](https://huggingface.co/datasets/zhennan1/ExtAgents)]  
+  \*Equal contribution.
 
 **Research Experience**
 
@@ -35,7 +38,7 @@ Zijun Liu\*, **Zhennan Wan\***, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Yang Liu
   * Advisor: Associate Professor [Peng Li](https://lpeng.net/) and Professor [Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/)
   * Research Topic: Scaling External Knowledge Input Beyond the Context Length of LLMs via Multi-Agent Collaboration
   * Role: Co-leader
-  * Description: Developed a multi-agent framework, ExtAgents, to overcome the context window limitations of current large language models (LLMs) and enable better scalability in inference-time knowledge integration without longer-context training. Paper: [https://arxiv.org/abs/2505.21471](https://arxiv.org/abs/2505.21471). GitHub: [https://github.com/THUNLP-MT/ExtAgents](https://github.com/THUNLP-MT/ExtAgents). Data: [https://huggingface.co/datasets/zhennan1/ExtAgents](https://huggingface.co/datasets/zhennan1/ExtAgents).
+  * Description: Developed a multi-agent framework, ExtAgents, to overcome the context window limitations of current large language models (LLMs) and enable better scalability in inference-time knowledge integration without longer-context training.
 
 * **February 2024 - August 2024: 3D Visual Computing and Machine Intelligence (3DVICI) Lab, Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University**
   * Advisor: Assistant Professor [Li Yi](https://ericyi.github.io/)
