@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I’m Zhennan Wan, a final-year undergraduate student majoring in Computer Science and Technology at Tsinghua University. My current research focuses on improving the long-context capability of large language models (LLMs), with broader interests in machine learning and natural language processing.
+Hello, I’m Zhennan Wan, a final-year undergraduate student majoring in Computer Science and Technology at Tsinghua University. My current research focuses on improving the long-context capability of large language models (LLMs). More details can be found in [CV](https://zhennan1.github.io/cv/)
 
 You can contact me through email [zhennan018@gmail.com](zhennan018@gmail.com). You can also visit my GitHub website [https://github.com/zhennan1](https://github.com/zhennan1) to learn more about the projects I have worked on before.
 
 I’m excited to share my interests and academic pursuits here, and I look forward to connecting and collaborating with like-minded individuals. 🌐🎵🚶‍♂️💤🎮
-
-Link to: [CV](https://zhennan1.github.io/cv/)
