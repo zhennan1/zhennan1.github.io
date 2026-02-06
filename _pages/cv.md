@@ -11,19 +11,17 @@ redirect_from:
 
 **Education**
 
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-<!-- * M.S. in Jekyll, GitHub University, 2014 -->
 * **Master of Engineering in Electronic Information (Computer Science and Technology), Tsinghua University, 2028 (expected)**
   * Advisor: Associate Professor [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/)
   * Research Lab: [TSAIL](https://ml.cs.tsinghua.edu.cn/)
 * **Bachelor of Engineering in Computer Science and Technology, Tsinghua University, 2026 (expected)**
   * Major GPA: 3.76/4.0
-  * Relevant Coursework (Grade: A): Ordinary Differential Equations; Probability and Statistics; Fundamentals of Programming; Programing and Training; Software Engineering; Operating Systems; Principles of Signal Processing; Database Special Topic Training
+  * Relevant Coursework (Grade >= A): Ordinary Differential Equations; Probability and Statistics; Fundamentals of Programming; Programming and Training; Software Engineering; Operating Systems; Principles of Signal Processing; Database Special Topic Training
   * Previous Major: Medicine. Pivoted to Computer Science to pursue a passion for Artificial Intelligence.
 
 **Research Statement**
 
-* My research focuses on improving the long context capability of large language models (LLMs).
+* My research focuses on improving the long context capability of large language models (LLMs), with particular interest in synthetic data, training strategy, and inference-time scaling.
 
 **Publications**
 
@@ -33,6 +31,12 @@ redirect_from:
   \*Equal contribution.
 
 **Research Experience**
+
+* **September 2025 - Present: Tsinghua Statistical Artificial Intelligence & Learning Group, Tsinghua University (TSAIL)**
+  * Advisor: Associate Professor [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/)
+  * Research Topic: Enhancing Long-Context Capability of LLMs with Synthetic Data
+  * Role: Independent
+  * Description: Generated various types of synthetic data and corresponding reinforcement learning pipeline; results show the capability learned from synthetic data can generalize to general tasks. (Ongoing)
 
 * **September 2024 - May 2025: Natural Language Processing Lab, Tsinghua University (THUNLP)**
   * Advisor: Associate Professor [Peng Li](https://lpeng.net/) and Professor [Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/)
@@ -54,9 +58,14 @@ redirect_from:
 
 **Internship Experience**
 
+* **February 2026 - Present: Intelligent Code Algorithms, TRAE, Stone, ByteDance**
+  * Project Topic: TRAE foundation model coding capability modeling and optimization
+  * Role: LLM Algorithm Engineer
+  * Description: Analyze pattern distribution of fine-tuning data; explore directions for improvement from a statistical perspective; design data synthesis methods and implement training tasks. Define long-context capability of the coding model; evaluate its current status, design improvement plans and validate them.
+
 * **June 2025 - August 2025: Code Intelligence Center, Technology and Engineering Group (TEG), Tencent**
   * Project Topic: Applying CodeLLMs for Multi-Point Code Completion and Smart Rewriting
-  * Role: Student Leader
+  * Role: LLM Algorithm Engineer (Project Lead)
   * Description: Researched data synthesis algorithms for CodeLLMs on cursor prediction and intelligent rewrite tasks; trained a CodeLLM-based fusion model to implement cursor prediction and intelligent rewrite suggestions during code editing. Our group was ranked 1st among 5 groups.
 
 **Course Project**
@@ -66,21 +75,6 @@ redirect_from:
   * Project Topic: Adaptive Safety Priming: Inference-Time Safeguards for Large Reasoning Models
   * Role: Independent
   * Description: Developed a lightweight and dynamic safety mechanism, Adaptive Safety Priming (ASP), for large reasoning models (LRM) at inference time, which leverages their step-by-step inference process to enable real-time intervention. This approach provides a more adaptive and resource efficient path to develop robustly safe models. [Report](https://github.com/zhennan1/ASP/blob/main/Report.pdf)
-
-<!-- * Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
   
 **Skills**
 
@@ -93,6 +87,7 @@ redirect_from:
 
 **Awards**
 
+* Academic Excellence Scholarship (2024-2025)
 * Tsinghua University Software Engineering Outstanding Project Award (2024)
 
 <!-- Publications
