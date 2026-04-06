@@ -27,7 +27,7 @@ redirect_from:
 
 * **Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**  
   Zijun Liu\*, **Zhennan Wan\***, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Yang Liu  
-  *arXiv 2025*. Under review. [[Paper](https://arxiv.org/abs/2505.21471)] [[GitHub](https://github.com/THUNLP-MT/ExtAgents)] [[Data](https://huggingface.co/datasets/zhennan1/ExtAgents)]  
+  ACL 2026 Main Conference. [[Paper](https://arxiv.org/abs/2505.21471)] [[GitHub](https://github.com/THUNLP-MT/ExtAgents)] [[Data](https://huggingface.co/datasets/zhennan1/ExtAgents)]  
   \*Equal contribution.
 
 **Research Experience**
@@ -36,7 +36,7 @@ redirect_from:
   * Advisor: Associate Professor [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/)
   * Research Topic: Enhancing Long-Context Capability of LLMs with Synthetic Data
   * Role: Independent
-  * Description: Generated various types of synthetic data and corresponding reinforcement learning pipeline; results show the capability learned from synthetic data can generalize to general tasks. (Ongoing)
+  * Description: Generated various types of synthetic data and corresponding reinforcement learning pipeline; results show the capability learned from synthetic data can generalize to general tasks. (Work in progress)
 
 * **September 2024 - May 2025: Natural Language Processing Lab, Tsinghua University (THUNLP)**
   * Advisor: Associate Professor [Peng Li](https://lpeng.net/) and Professor [Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/)
@@ -59,9 +59,9 @@ redirect_from:
 **Internship Experience**
 
 * **February 2026 - Present: Intelligent Code Algorithms, TRAE, Stone, ByteDance**
-  * Project Topic: TRAE foundation model coding capability modeling and optimization
+  * Project Topic: Seed Code model capability optimization (Work in progress)
   * Role: LLM Algorithm Engineer
-  * Description: Analyze pattern distribution of fine-tuning data; explore directions for improvement from a statistical perspective; design data synthesis methods and implement training tasks. Define long-context capability of the coding model; evaluate its current status, design improvement plans and validate them.
+  * Description: Analyze the model’s weaknesses in open-ended technical Q&A, design synthetic data solutions, and conduct training and evaluation. Analyze the model’s weaknesses in using Skills, design an evaluation framework, use data from advanced models, and conduct training and evaluation. Define the long-context capabilities of the code model, evaluate the current state, and analyze existing issues.
 
 * **June 2025 - August 2025: Code Intelligence Center, Technology and Engineering Group (TEG), Tencent**
   * Project Topic: Applying CodeLLMs for Multi-Point Code Completion and Smart Rewriting
