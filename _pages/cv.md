@@ -11,11 +11,10 @@ redirect_from:
 
 **Education**
 
-* **Master of Engineering in Electronic Information (Computer Science and Technology), Tsinghua University, 2028 (expected)**
+* **Master of Engineering in Electronic Information (Computer Science and Technology), Tsinghua University, 2028.06 (expected)**
   * Advisor: Associate Professor [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/)
   * Research Lab: [TSAIL](https://ml.cs.tsinghua.edu.cn/)
-* **Bachelor of Engineering in Computer Science and Technology, Tsinghua University, 2026 (expected)**
-  * Major GPA: 3.76/4.0
+* **Bachelor of Engineering in Computer Science and Technology, Tsinghua University, 2026.06**
   * Relevant Coursework (Grade >= A): Ordinary Differential Equations; Probability and Statistics; Fundamentals of Programming; Programming and Training; Software Engineering; Operating Systems; Principles of Signal Processing; Database Special Topic Training
   * Previous Major: Medicine. Pivoted to Computer Science to pursue a passion for Artificial Intelligence.
 
@@ -35,46 +34,51 @@ redirect_from:
 * **September 2025 - Present: Tsinghua Statistical Artificial Intelligence & Learning Group, Tsinghua University (TSAIL)**
   * Advisor: Associate Professor [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/)
   * Research Topic: Enhancing Long-Context Capability of LLMs with Synthetic Data
-  * Role: Independent
-  * Description: Although LLM context windows have reached the million-token scale, they still struggle with complex long-context tasks. In CPT/SFT, we focus on data organization to strengthen long-range dependencies. In RL, we focus on data difficulty, controllability, and reward design.
+  * ① LC-Zero: Self-Evolving Long-Context Reasoning from Zero Data
+  * High-quality long-context data is scarce; it's difficult to satisfy difficulty, correctness, and authenticity simultaneously
+For long-context tasks, we synthesize all texts, questions, and answers entirely from scratch. Since the model fully masters its own synthesized texts, correctness is better guaranteed, and difficulty can be continuously increased, enabling self-evolution
+  * ② Scaling Long-Form Story Generation with Structured Narrative State Tracking
+  * Existing methods still suffer from notable consistency issues in long-form story generation and struggle to scale to true novel length
+We propose maintaining structured narrative state via tool calls to improve consistency in story writing, scaling from 10,000 to 100,000 words without noticeable quality degradation
+  * ③ We are also following research on visual reasoning, such as DeepSeek's Thinking with Visual Primitives
 
 * **September 2024 - May 2025: Natural Language Processing Lab, Tsinghua University (THUNLP)**
   * Advisor: Associate Professor [Peng Li](https://lpeng.net/) and Professor [Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/)
   * Research Topic: Scaling External Knowledge Input Beyond the Context Length of LLMs via Multi-Agent Collaboration
-  * Role: Co-leader
-  * Description: Developed a multi-agent framework, ExtAgents, to overcome the context window limitations of current large language models (LLMs) and enable better scalability in inference-time knowledge integration without longer-context training.
+  * Developed a multi-agent framework, ExtAgents, to overcome the context window limitations of current large language models (LLMs) and enable better scalability in inference-time knowledge integration without longer-context training
 
 * **February 2024 - August 2024: 3D Visual Computing and Machine Intelligence (3DVICI) Lab, Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University**
   * Advisor: Assistant Professor [Li Yi](https://ericyi.github.io/)
   * Research Topic: Editing Human Videos for Robotic Skill Training
-  * Role: Co-leader
-  * Description: Utilized video editing techniques to convert human hand-object interaction videos into robotic hand-object interaction videos; extracted 6D poses of human videos; compared human data with robot data, referencing pipelines such as OpenVLA, to validate the effectiveness of human videos for robotic training.
+  * Utilized video editing techniques to convert human hand-object interaction videos into robotic hand-object interaction videos; extracted 6D poses of human videos; compared human data with robot data, referencing pipelines such as OpenVLA, to validate the effectiveness of human videos for robotic training
 
 * **July 2023 - August 2023: State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology, Tsinghua University**
   * Advisor: Assistant Professor [Bin Fang](https://scholar.google.com/citations?user=5G47IcIAAAAJ&hl=zh-CN)
   * Research Topic: Human-Machine Collaborative Operation of Super-functional Prosthetic Hands
-  * Role: Project Member
-  * Description: Trained neural network models to extract human hand movements from electromyographic signals of the human arm.
+  * Trained neural network models to extract human hand movements from electromyographic signals of the human arm
 
 **Internship Experience**
 
 * **February 2026 - May 2026: Intelligent Code Algorithms, TRAE, Stone, ByteDance**
   * Project Topic: Seed Code model capability optimization
   * Role: LLM Algorithm Engineer
-  * Description: Evaluated long-context capabilities across multiple benchmarks and identified gaps with SOTA models; analyzed failure modes in code-state tracking and improved performance via training on synthetic data from real trajectories; designed rubric-based evaluations for open-ended technical QA and improved model performance with targeted synthetic data.
+  * Evaluated long-context capabilities across multiple benchmarks and identified gaps with SOTA models
+  * Analyzed failure modes in code-state tracking and improved performance via training on synthetic data from real trajectories
+  * Designed rubric-based evaluations for open-ended technical QA and improved model performance with targeted synthetic data
 
 * **June 2025 - August 2025: Code Intelligence Center, Technology and Engineering Group (TEG), Tencent**
   * Project Topic: Applying CodeLLMs for Cursor Prediction and Intelligent Rewriting
   * Role: LLM Algorithm Engineer (Project Lead)
-  * Description: Researched data synthesis algorithms for CodeLLMs on cursor prediction and intelligent rewrite tasks; trained a CodeLLM-based fusion model to implement cursor prediction and intelligent rewrite suggestions during code editing. Our group was ranked 1st among 5 groups.
+  * Researched data synthesis algorithms for CodeLLMs on cursor prediction and intelligent rewrite tasks
+  * Trained a CodeLLM-based fusion model to implement cursor prediction and intelligent rewrite suggestions during code editing
+  * Our group was ranked 1st among 5 groups
 
 **Course Project**
 
 * **April 2025 - June 2025: Frontiers in AI safety and Governance (2025 Spring)**
   * Lecturer: Professor [Peng Cui](https://pengcui.thumedialab.com/)
   * Project Topic: Adaptive Safety Priming: Inference-Time Safeguards for Large Reasoning Models
-  * Role: Independent
-  * Description: Developed a lightweight and dynamic safety mechanism, Adaptive Safety Priming (ASP), for large reasoning models (LRM) at inference time, which leverages their step-by-step inference process to enable real-time intervention. This approach provides a more adaptive and resource efficient path to develop robustly safe models. [Report](https://github.com/zhennan1/ASP/blob/main/Report.pdf)
+  * Developed a lightweight and dynamic safety mechanism, Adaptive Safety Priming (ASP), for large reasoning models (LRM) at inference time, which leverages their step-by-step inference process to enable real-time intervention. This approach provides a more adaptive and resource efficient path to develop robustly safe models. [Report](https://github.com/zhennan1/ASP/blob/main/Report.pdf)
   
 **Skills**
 
