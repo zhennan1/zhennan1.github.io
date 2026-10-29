@@ -34,11 +34,11 @@ _Last updated: October 2026_
 
 * **LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data**  
   **Zhennan Wan**, Jianfei Chen  
-  Under review at ACL Rolling Review, October 2026. [[arXiv](https://arxiv.org/abs/2610.30132)] [[Code](https://github.com/zhennan1/LongZero)]
+  Under review. [[arXiv](https://arxiv.org/abs/2610.30132)] [[Code](https://github.com/zhennan1/LongZero)]
 
 * **Scaling Long-Form Story Generation via Narrative State Tracking**  
   **Zhennan Wan**, Jianfei Chen  
-  Under review at ICLR 2027. [[arXiv](https://arxiv.org/abs/2609.35759)] [[Code](https://github.com/zhennan1/NstAgent)]
+  Under review. [[arXiv](https://arxiv.org/abs/2609.35759)] [[Code](https://github.com/zhennan1/NstAgent)]
 
 * **Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**  
   Zijun Liu\*, **Zhennan Wan\***, Peng Li, Ming Yan, Fei Huang, Yang Liu (\*equal contribution)  
